@@ -14,6 +14,7 @@ class RobotGollum implements RobotInterface{
   public $ennemyPosition;
   public $data;
   public $turn;
+    
 
   public function __construct($name){
     $this->name = $name;
