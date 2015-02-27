@@ -3,7 +3,7 @@ namespace Robot;
 
 use Arena\RobotOrder;
 
-class Destructo implements RobotInterface{
+   class Destructo implements RobotInterface{
 
   public $hit;
   public $lastHit; 
